@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TestingPreferencesState">
+    <option name="preferencesMap">
+      <map>
+        <entry key="java">
+          <value>
+            <TestingFrameworks>
+              <option name="unitTestingFramework">
+                <list>
+                  <option value="JUnit" />
+                </list>
+              </option>
+            </TestingFrameworks>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
